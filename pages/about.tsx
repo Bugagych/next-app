@@ -16,7 +16,9 @@ const Home: NextPage = () => {
 				<h1 className={styles.title}>Hello my friend!</h1>
 			</main>
 
-			<footer className={styles.footer}></footer>
+			<footer className={styles.footer}>
+				<Image src='/vercel.svg' alt='Vercel Logo' width={72} height={16} />
+			</footer>
 		</div>
 	)
 }
