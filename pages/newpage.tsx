@@ -13,7 +13,7 @@ const Home: NextPage = () => {
 			</Head>
 
 			<main className={styles.main}>
-				<h1 className={styles.title}>New page!</h1>
+				<h1 className={styles.title}>New page! Hello!</h1>
 			</main>
 
 			<footer className={styles.footer}>
